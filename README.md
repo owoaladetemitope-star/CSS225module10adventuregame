@@ -31,10 +31,10 @@ The class controls the flow of the game by storing the current chapter and runni
 
 How to run the program
 Open a terminal and run:
-python main_game.py
+python maingame.py
 
 How to start the game
-Run the main_game.py file and follow the instructions shown in the terminal.
+Run the maingame.py file and follow the instructions shown in the terminal.
 
 External services
 No external services were used.
