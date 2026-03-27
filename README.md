@@ -22,7 +22,7 @@ Simple variable function names are used to keep the code easy to understand.
 
 Architecture overview
 The game is divided into multiple files. 
-The main_game.py file controls the game flow. 
+The maingame.py file controls the game flow. 
 Each chapter file contains a play() function that returns the next step in the game.
 
 Use of Class Object
